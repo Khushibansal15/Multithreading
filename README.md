@@ -35,7 +35,6 @@ The graph illustrates how the total time taken for matrix multiplication decreas
 
 ### CPU Usage
 
-![CPU usgae](![Capture](https://github.com/Khushibansal15/Multithreading/assets/91721407/36138d18-1714-444a-aa6e-0b74a1f5e59b)
-)
+![CPU usgae](https://github.com/Khushibansal15/Multithreading/blob/main/Capture.PNG)
 
 The CPU usage graph shows the utilization during the execution of the multithreading program, demonstrating the effectiveness of multithreading in leveraging CPU resources.
