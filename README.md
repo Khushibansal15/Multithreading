@@ -28,8 +28,8 @@ This assignment demonstrates matrix multiplication using multithreading in Pytho
 
 ### Graph
 
-![Number of Threads vs. Total Time]([![Plot](https://github.com/Khushibansal15/Multithreading/blob/main/Plot.PNG)
-)
+![Number of Threads vs. Total Time](https://github.com/Khushibansal15/Multithreading/blob/main/Plot.PNG)
+
 
 The graph illustrates how the total time taken for matrix multiplication decreases as the number of threads increases due to parallelism.
 
